@@ -20,7 +20,7 @@ vim.org maintains the community collection of ~550 color schemes.
 
 ## VIM Color Scheme Tester
 
-http://vimcolorschemetest.googlecode.com/ - [Screenshots](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html)
+http://metalelf0.github.io/VimColorSchemeTest-Ruby/python.html
 
 
 ## TextMate
